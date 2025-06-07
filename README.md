@@ -2,6 +2,10 @@
 Udemy langchain 으로 LLM 기반 애플리케이션 개발하기 (by Eden Marco)  
 LangChain : LLM framework
 
+https://github.com/emarco177/ice_breaker/blob/main/ice_breaker.py
+
+# Ollama 설치 및 사용법
+
 Ollama download > install > ollama is running (ollama setup) 
 https://ollama.com/download
 
